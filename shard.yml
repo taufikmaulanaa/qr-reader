@@ -1,0 +1,14 @@
+name: qr-reader
+version: 0.1.0
+
+authors:
+  - Taufik <taufik@academiaworks.id>
+
+dependencies:
+  stumpy_png:
+    github: stumpycr/stumpy_png
+
+
+crystal: '>= 1.15.0'
+
+license: MIT
